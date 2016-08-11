@@ -44,7 +44,6 @@ h6 {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.2);
 
 }
 
@@ -53,13 +52,16 @@ h6 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.2);
 }
 
-.intro-message .tc {
-    font-size: 1.em;
+/*.intro-message .tc {*/
+    /*font-size: 1em;*/
+    
 
 }
 
 .intro-message .welcome {
     font-size: 5em;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+
 
 }
 
