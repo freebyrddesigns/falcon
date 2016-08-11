@@ -34,11 +34,10 @@ h6 {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 150px;
     text-align: center;
-    color: #6454545;
+    color: #454545;
     /*color: #f8f8f8;*/
     background: url(../img/wocintech2.jpg) no-repeat center center;
     background-size: cover;
-    /*filter: grayscale(20%);*/
 }
 
 .intro-message {
@@ -49,7 +48,7 @@ h6 {
 
 .intro-message > h1 {
     margin: 0;
-    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.2);*/
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.2);
 }
 
 .intro-message .tc {
