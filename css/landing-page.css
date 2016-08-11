@@ -34,17 +34,17 @@ h6 {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 150px;
     text-align: center;
-    color: #454545;
+    color: #6454545;
     /*color: #f8f8f8;*/
     background: url(../img/wocintech2.jpg) no-repeat center center;
     background-size: cover;
+    /*filter: grayscale(20%);*/
 }
 
 .intro-message {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
-
 }
 
 .intro-message > h1 {
@@ -53,14 +53,13 @@ h6 {
 }
 
 .intro-message .tc {
-    font-size: 1em;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.2);
-
+    font-size: 1.em;
 
 }
 
 .intro-message .welcome {
     font-size: 5em;
+
 }
 
 .intro-divider {
@@ -71,7 +70,7 @@ h6 {
 
 .intro-message > h3 {
     color: #454545;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.2);
+    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
 }
 
 .img-responsive {
