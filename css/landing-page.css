@@ -35,10 +35,8 @@ h6 {
     padding-bottom: 150px;
     text-align: center;
     color: #6454545;
-    /*color: #f8f8f8;*/
-    background: url(../img/wocintech2.jpg) no-repeat center center;
+    background: url(../img/25392377053_452ff5260a_k.jpg) no-repeat center center;
     background-size: cover;
-    /*filter: grayscale(20%);*/
 }
 
 .intro-message {
@@ -161,7 +159,6 @@ h6 {
 .banner-social-buttons {
     float: right;
     margin-top: 0;
-    /*padding-left: 35px;*/
 }
 
 @media(max-width:1199px) {
